@@ -1,0 +1,38 @@
+[[main]]
+  name = "Blog"
+  pageRef = "/posts"
+  weight = 10
+
+[[main]]
+  name = "Projects"
+  pageRef = "/projects/"
+  weight = 20
+
+[[main]]
+  name = "Cheatsheets"
+  pageRef = "/projects/cheatsheets/"
+  parent = "Projects"
+  weight = 1
+
+[[main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 30
+
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com/"
+  weight = 10
+
+[[social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com/"
+  weight = 20
+
+[[social]]
+  name = "Medium"
+  pre = "fab medium"
+  url = "https://medium.com/"
+  weight = 30

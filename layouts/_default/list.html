@@ -1,0 +1,13 @@
+{{- define "main" -}}
+    {{- $content := partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) -}}
+    {{- partial "assets/section-list.html" (dict 
+        "page" .
+        "section" .Type
+        "home" false
+        "nested" .Params.Nested
+        "title" (or .Title .Type)
+        "description" .Description
+        "content" $content
+        "paginate" true)
+    -}}
+{{- end -}}
