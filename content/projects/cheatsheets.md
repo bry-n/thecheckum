@@ -6,4 +6,4 @@ description: A collection of useful cheatsheets
 tags: ["cheatsheet"]
 icon: fas rocket
 ---
-../posts/2022-10-02-neovim-cheat-sheet.md
+[Neovim]({{<ref "2022-10-02-neovim-cheat-sheet.md" >}})
