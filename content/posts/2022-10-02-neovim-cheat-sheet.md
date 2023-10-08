@@ -1,7 +1,7 @@
 ---
 title: Neovim Cheat Sheet
 slug: /neovim-cheat-sheet/
-tags: ['Linux', 'macOS']
+tags: ['Cheatsheet']
 date: 2022-10-02T11:31:46-04:00
 draft: false
 # layout: 
@@ -28,19 +28,21 @@ Using a terminal type `nvim` followed by the file name. A new file will be creat
 
 ## Helpful Key Commands
 
-| Key Command  | Description   |
-|---|---|
-| esc  | Escape Mode  |
-| i  | Insert Mode  |
-| :  | Commandline Mode  |
-| h  | Move Cursor Left  |
-| j  | Move Cursor Up  |
-| k  | Move cursor Down  |
-| l  | Move Cursor Left  |
-| :w  | Save  |
-| :q  | Quit  |
-| esc+u | Undo  |
-| dw  | Delete Word  |
-| dd  | Delete Entire Line  |
-| p  | Paste Last Deleted Word or Line  |
-| r+key  | Replace Any Character   |
+{{< table "table-striped" >}}
+| **Key Command**  | **Description**              |
+| ------------ |:---------------------------------|
+| esc          | Escape Mode                      |
+| i            | Insert Mode                      |
+|:             | Commandline Mode                 |
+| h            | Move Cursor Left                 |
+| j            | Move Cursor Up                   |
+| k            | Move cursor Down                 |
+| l            | Move Cursor Left                 |
+| :w           | Save                             |
+| :q           | Quit                             |
+| esc+u        | Undo                             |
+| dw           | Delete Word                      |
+| dd           | Delete Entire Line               |
+| p            | Paste Last Deleted Word or Line  |
+| r+key        | Replace Any Character            |
+{{< /table >}}

@@ -10,7 +10,7 @@ draft: false
 # description: 
 # tags: 
 # icon: 
-# thumbnail: 
+#thumbnail: img/paper.jpg
     # url: 
     # author: 
     # authorURL: 
@@ -22,12 +22,11 @@ draft: false
 I ran into a tiny problem while setting up Dashy on my UnRaid server. I discovered that after installing the Dashy app the conf.yml file is setup as a directory not as a file. This prevents Dashy from starting correctly.  To be fair, instructions for downloading the config are provided in the app description.
 When trying to run Dashy without downloading a new config file you may see a similar error about attempting to mount a directory onto a file.
 
-![](/assets/images/unraid_dashy_error_1.png)
+{{< image src="img/unraid_dashy_error_1.png" caption="Figure caption" class="rounded" >}}
 
 Here is how the conf.yml appears in UnRaid without making any changes. As you can see the conf.yml file is actually a directory not a file.
 
-![](/assets/images/unraid_webterminal_1.png)  
-
+{{< image src="img/unraid_webterminal_1.png" caption="Figure caption" class="rounded" >}}  
 
 
 ## How To Fix Our Conf.yml Issue
@@ -40,6 +39,7 @@ Here is how the conf.yml appears in UnRaid without making any changes. As you ca
 4. Restart the Dashy container.
 
 As you can see our conf.yml file is now recongnized as a file and not a directory.  
-![](/assets/images/unraid_webterminal_2.png)  
 
-Now we can proceed with configuring Dashy! 
+{{< image src="img/unraid_webterminal_2.png" caption="Figure caption" class="rounded" >}}  
+
+Now we can proceed with configuring Dashy!

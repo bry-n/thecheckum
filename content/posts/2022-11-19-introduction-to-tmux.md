@@ -43,18 +43,19 @@ Tmux can be used by simply typing ```tmux``` in the terminal.  Once, you're in a
 
 
 ## Helpful Commands To Start 
-
-| Key Command  | Description   |
+{{< table "table-striped" >}}
+| **Key Command**  | **Description**   |
 |---|---|
 | tmux | Start a session |
 | tmux new -s Test | Start a new session called Test   |
 | tmux ls | List any active sessions |
 | tmux attach -t # | Connect to an active session (# = session number) |
 | tmux rename-session -t # new_name | Rename a session (# = session number)  |
+{{< /table >}}
 
 ## Helpful Commands For Interacting With Active Sessions
-
-| Key Command  | Description   |
+{{< table "table-striped" >}}
+| **Key Command**  | **Description**   |
 |---|---|
 | exit or ctrl-d | Exit an active session, window, or pane |
 | ctrl-b then shift-5 | Create another pane |
@@ -64,6 +65,6 @@ Tmux can be used by simply typing ```tmux``` in the terminal.  Once, you're in a
 | ctrl-b then p | Move to the previous window |
 | ctrl-b then d | Detach current session |
 | ctrl-b then D | Detach session of choice |
-
+{{< /table >}}
 # Conclusion
 There you have it! The very basics of installing and using Tmux to enhance your terminal experience. We only scratched the surface of what Tmux is capable of, so continue learning by visiting [https://github.com/tmux/tmux/wiki/Getting-Started](https://github.com/tmux/tmux/wiki/Getting-Started)!

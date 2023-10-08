@@ -4,7 +4,7 @@ slug: /homebrew-basics/
 tags: macOS
 # author: 
 date: 2022-10-21T11:31:46-04:00
-draft: true
+draft: false
 # layout: 
 # description: 
 # tags: 
