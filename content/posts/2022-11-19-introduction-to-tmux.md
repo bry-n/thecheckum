@@ -10,7 +10,7 @@ draft: false
 # description: 
 # tags: 
 # icon: 
-# thumbnail: 
+thumbnail: img/cyberpunk2.png
     # url: 
     # author: 
     # authorURL: 

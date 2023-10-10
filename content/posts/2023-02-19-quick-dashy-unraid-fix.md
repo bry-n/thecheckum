@@ -4,13 +4,13 @@ slug: /quick-dashy-unraid-fix/
 tags: ['Linux', 'HomeLab', 'UnRaid']
 categories: Quick_Tips
 # author: 
-date: 2023-02-19T11:31:46-04:00
+date: 2023-02-19
 draft: false
 # layout: 
 # description: 
 # tags: 
 # icon: 
-#thumbnail: img/paper.jpg
+#thumbnail:
     # url: 
     # author: 
     # authorURL: 

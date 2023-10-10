@@ -8,7 +8,7 @@ draft: false
 # description: 
 # tags: 
 # icon: 
-# thumbnail: 
+thumbnail: img/golang_gopher.png
     # url: 
     # author: 
     # authorURL: 

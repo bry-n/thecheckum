@@ -9,7 +9,7 @@ draft: false
 # description: 
 # tags: 
 # icon: 
-# thumbnail: 
+thumbnail: img/homebrew.png
     # url: 
     # author: 
     # authorURL: 

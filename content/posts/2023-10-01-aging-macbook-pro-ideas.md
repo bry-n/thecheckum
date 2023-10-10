@@ -8,7 +8,7 @@ draft: true
 # description: 
 tags: macOS
 # icon: 
-# thumbnail: 
+thumbnail: img/penguin_mac.png
     # url: 
     # author: 
     # authorURL: 
