@@ -8,7 +8,7 @@ draft: false
 # description: 
 # tags: 
 # icon: 
-# thumbnail: 
+thumbnail: img/cheatsheet.png
     # url: 
     # author: 
     # authorURL: 

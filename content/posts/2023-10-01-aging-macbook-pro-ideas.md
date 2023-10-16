@@ -25,16 +25,21 @@ So what to do with this laptop?  It's been a solid computer since the day I boug
 
 So what can we do with this laptop?  Here's a few ideas if we can use the laptop for until Apple drops all support for macOS Monterey.
 
-1. Keep it charged and ready to use if we have purchased any macOS specific software.  Personally, I bought some photo editing software for the mac.  In my case I could use it as a photo editing workstation.
-2. Use the laptop for online test taking with certifications.  Some of the certifications I have allow for online proctoring.  I could solely use the laptop for online proctoring.  The online proctoring software can be very anti-privacy.  When installed it monitors the entire laptop to make sure you are not cheating during the exam.
-3. Donate the laptop to a family member.
-4. I could try selling it on the cheap.
+- Keep it charged and ready to use if we have purchased any macOS specific software.  Personally, I bought some photo editing software for the mac.  In my case I could use it as a photo editing workstation.  
+
+- Use the laptop for online test taking with certifications.  Some of the certifications I have allow for online proctoring.  I could solely use the laptop for online proctoring.  The online proctoring software can be very anti-privacy.  When installed it monitors the entire laptop to make sure you are not cheating during the exam.  
+
+- Donate the laptop to a family member.  
+
+- I could try selling it on the cheap.
 
 What should we do when Apple drops all support for Monterey?
 
-1. We can install....LINUX!!  Apple makes fantastic hardware.  Linux runs amazing on older hardware.
-2. Convert the laptop into a server using Linux.  Laptops make fantastic servers.  The battery acts like a builtin uninterruptible power supply (UPS). 
-3. I could still try to sell the laptop.  Maybe I could convince someone to trade it for a sandwich.
+- We can install....LINUX!!  Apple makes fantastic hardware.  Linux runs amazing on older hardware.  
+
+- Convert the laptop into a server using Linux.  Laptops make fantastic servers.  The battery acts like a builtin uninterruptible power supply (UPS).    
+
+- I could still try to sell the laptop.  Maybe I could convince someone to trade it for a sandwich.
 ## Conclusion
 
 So what will I end up doing with this laptop?  Spoiler alert...I'll most likely turn it into a server. Did I waste my money by paying Apple to fix a few hardware issues before getting it dropped from future macOS versions?  I don't think so.  The hardware will most likely run for years.  I'll breath new life into the laptop with Linux.

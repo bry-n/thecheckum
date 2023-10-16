@@ -10,7 +10,7 @@ draft: false
 # description: 
 # tags: 
 # icon: 
-#thumbnail:
+thumbnail: img/unraid.png
     # url: 
     # author: 
     # authorURL: 
