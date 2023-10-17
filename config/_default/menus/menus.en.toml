@@ -4,20 +4,25 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "/projects/"
+  name = "Cheatsheets"
+  pageRef = "/cheatsheets/"
   weight = 20
 
 [[main]]
-  name = "Cheatsheets"
-  pageRef = "/projects/cheatsheets/"
+  name = "Projects"
+  pageRef = "/projects/"
+  weight = 30
+
+[[main]]
+  name = "TechSec101"
+  pageRef = "/projects/techSec101/"
   parent = "Projects"
   weight = 1
 
 [[main]]
   name = "Tags"
   pageRef = "/tags"
-  weight = 30
+  weight = 40
 
 [[social]]
   name = "LinkedIn"
