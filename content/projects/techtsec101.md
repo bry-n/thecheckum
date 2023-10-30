@@ -12,13 +12,13 @@ icon: fas rocket
 
 ## Welcome
 
-A few recommendations:
+Welcome to my collection of resources for those who are curious about getting into Security and Technology. Maybe you're curious about changing careers and you don't know where to start or you know someone who is. This is an ever changing list of resources to help guide you. 
+
+## A Few Recommendations:
 
 - Black Hills Information Security has excellent content on how to get into the field of Information Security.
 
-- Black Hills Information Security has a very established online community. Start here and connect with others interested in getting into any Security related field
-
-https://www.blackhillsinfosec.com/
+- Black Hills Information Security has a very established online community. Start here and connect with others interested in getting into any Security related field https://www.blackhillsinfosec.com/.
 
 - The Discord community is full of amazing people and content to guide people who are getting into Information Security. Information on this can be found on their website.
 
@@ -44,108 +44,68 @@ https://www.blackhillsinfosec.com/
 
 ## YouTube Channels
 
-Black Hills Information Security - Information Security, Offensive Security, Defensive Security, How to get into Security
+- Black Hills Information Security - Information Security, Offensive Security, Defensive Security, How to get into Security - https://www.youtube.com/@BlackHillsInformationSecurity
 
-https://www.youtube.com/@BlackHillsInformationSecurity
+- Free Code Camp - All about coding and coding related topics - https://www.freecodecamp.org/
 
-Network Chuck - Networking, Certifications, Information Security, General Information Technology, Coding
+- John Hammond - Information Security, Defensive Security, Offensive Security - https://www.youtube.com/@_JohnHammond
 
-https://www.youtube.com/@NetworkChuck
+- Nahamsec - Information Security, Offensive Security, Bug Bounty - https://www.youtube.com/@NahamSec
 
-The Cyber Mentor - Information Security, Offensive Security, some Networking, Some Coding
+- Network Chuck - Networking, Certifications, Information Security, General Information Technology, Coding - https://www.youtube.com/@NetworkChuck
 
-https://www.youtube.com/@TCMSecurityAcademy
+- Sans Forensics - Digital Forensics & Incident Response - https://www.youtube.com/@SANSForensics
 
-John Hammond - Information Security, Defensive Security, Offensive Security
+- Sans Institute - Information Security, Virtual Conferences, Governance - https://www.youtube.com/@SANSInstitute
 
- https://www.youtube.com/@_JohnHammond
-
-Nahamsec - Information Security, Offensive Security, Bug Bounty
-
- https://www.youtube.com/@NahamSec
-
-Sans Forensics - Digital Forensics & Incident Response
-
-https://www.youtube.com/@SANSForensics
-
-Sans Institute - Information Security, Virtual Conferences, Governance
-
-https://www.youtube.com/@SANSInstitute
+- The Cyber Mentor - Information Security, Offensive Security, some Networking, Some Coding - https://www.youtube.com/@TCMSecurityAcademy
 
 ## Conferences
 
-SANs Virtual Summits - FREE
+- SANs 2023 Virtual Summits - FREE https://www.sans.org/cyber-security-summit/
 
-2023 Summits
+- 2022 New2Cyber Summit - It's from last year but had good information for getting into Information Security https://www.youtube.com/playlist?list=PLtgaAEEmVe6BGDZ6mxm-8Icr-mNX7Lk8a
 
-https://www.sans.org/cyber-security-summit/
-
-2022 New2Cyber Summit - It's from last year but had good information for getting into Information Security
-
-https://www.youtube.com/playlist?list=PLtgaAEEmVe6BGDZ6mxm-8Icr-mNX7Lk8a
-
-BSides Security Conferences (not free but super cheap)
-
-These conferences are hosted in almost every state
-
-http://www.securitybsides.com/w/page/12194156/FrontPage
+- BSides Security Conferences (not free but super cheap) These conferences are hosted in almost every state. http://www.securitybsides.com/w/page/12194156/FrontPage
 
 ## Learning Platforms  
 
 (Free and Paid)
+- Wide variety of Security and Technology labs, Free & Paid  - https://tryhackme.com
 
-https://tryhackme.com
+- Wide variety of Security and Technology labs, Free & Paid - https://www.hackthebox.com/
 
-https://www.hackthebox.com/
+- Cloud, coding, technology and Security course, Free & Paid - https://www.coursera.org/
 
-https://www.coursera.org/
+- Web Penetration Testing labs, Free - https://portswigger.net/web-security
 
-https://portswigger.net/web-security
+- Web Penetration Testing Cources, Paid - https://pentesterlab.com/
 
-https://pentesterlab.com/
+- Excellant source of Security topics for beginners, Paid (check out youtube channel (The Cyber Mentor) for free content - https://academy.tcm-sec.com/courses
 
-https://academy.tcm-sec.com/courses
+## Certifications - Beginner
+
+- Networking+ https://www.comptia.org/certifications/network
+
+- Security+ https://www.comptia.org/certifications/security
+
+- Amazon Cloud Practitioner - https://aws.amazon.com/certification/certified-cloud-practitioner/
+
+- Google Cloud Associate Cloud Engineer - https://cloud.google.com/learn/certification/cloud-engineer
+
+- Practical Junior Penetration Tester - https://certifications.tcm-sec.com/pjpt/
 
 
 ## Helpful Sites
 
-CTF Resources - Has as Forensics Section
+- CTF Resources - https://ctf101.org/
 
-https://ctf101.org/
+- SANS DFIR Posters - Full of tools, commands, tips & tricks - https://www.sans.org/posters/?focus-area=digital-forensics&msc=dfir-lp
 
-SANS DFIR Posters - Full of tools, commands, tips & tricks
+- SANS DFIR Blog - blog posts on research - https://www.sans.org/blog/?focus-area=digital-forensics&msc=dfir-lp 
 
-https://www.sans.org/posters/?focus-area=digital-forensics&msc=dfir-lp
-
-SANS DFIR Blog - More details research
-
-https://www.sans.org/blog/?focus-area=digital-forensics&msc=dfir-lp 
-
-SANS Free Tools - DFIR LInux Distros, tools, etc
-
-https://www.sans.org/tools/?focus-area=digital-forensics&msc=dfir-lp
-
-## Certifications
-
-Introduction Security and networking Certifications
-Comptia (recommend starting here) Materials, labs, and testing are usually bundled together.
-
-Networking+
-
-https://www.comptia.org/certifications/network
-
-Security+
-
-https://www.comptia.org/certifications/security
-
-Google or Amazon Cloud Certifications
-Cloud Certifications (recommend after being very comfortable with networking and security concepts)
-Google Cloud Associate Cloud Engineer
-
-https://cloud.google.com/learn/certification/cloud-engineer
-
-Amazon Cloud Practitioner
-
-https://aws.amazon.com/certification/certified-cloud-practitioner/
+- SANS Free Tools - DFIR LInux Distros, tools, etc - ttps://www.sans.org/tools/?focus-area=digital-forensics&msc=dfir-lp
 
 ## Coding
+
+- Free Code Camp - Amazing - https://www.freecodecamp.org/
