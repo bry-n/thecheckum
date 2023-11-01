@@ -16,30 +16,35 @@ thumbnail: img/penguin_mac.png
     # originURL: 
 ---
 
-## Intro
+## What to do with an aging laptop?
+I have a 2015 MacBook Pro which used to be my primary laptop. I've replaced it with an HP 865 G9 laptop running Linux. I'll go into details about the G9 in a future post. For this post, I thought it would be fun to brainstorm what to do with an older Apple laptop. Let’s start off with a few details about the laptop
 
-I have a 2015 MacBook Pro which used to be my primary laptop.  I've replaced it with an HP 865 G9 laptop running Linux.  I'll go into details about this change sometime in the future. Right now I thought it would be fun to brainstorm what to do with an older Apple laptop.
-## Content
+## The Hardware
 
-So what to do with this laptop?  It's been a solid computer since the day I bought it. As much as I love this laptop, it was starting to show it's age.  In an effort to keep it feeling fresh I paid Apple ~ $600 US Dollars to replace the battery, screen, and a dying fan.  However, unfortunately for me Apple dropped my model from newer venison of macOS starting with Ventura.  Basically, the last version of macOS supported by my 2015 Macbook Pro is Monterey.  Of course I'll receive Monterey updates but I won't get those new goodies released in newer versions of macOS.
+- Mid-2015 15in Macbook Pro model
+- 512gb SSD, 16gb ram, i7 processor
+- New battery, screen, and internal cooling fans
 
-So what can we do with this laptop?  Here's a few ideas if we can use the laptop for until Apple drops all support for macOS Monterey.
+## The Backstory
+The laptop has been very reliable, however I was starting to notice a few things. One of the fans started to make a clicking sound and the battery wasn’t holding a full charge.  So I paid Apple $600 dollars (way too much in hindsight) to replace the battery, fan, and anything else that was showing signs of wear and tear.  Well, the $600 I spent also gave me a brand new screen.  
 
-- Keep it charged and ready to use if we have purchased any macOS specific software.  Personally, I bought some photo editing software for the mac.  In my case I could use it as a photo editing workstation.  
+Remember how I mentioned “way too much in hindsight earlier”?  Well, several months later I was watching the Apple event where Ventura was released.  My mac laptop model was dropped from support. MacOS Monterey is the last version of macOS I’ll be able to run. Here’s where I realized I potentially wasted $600…or did I?
 
-- Use the laptop for online test taking with certifications.  Some of the certifications I have allow for online proctoring.  I could solely use the laptop for online proctoring.  The online proctoring software can be very anti-privacy.  When installed it monitors the entire laptop to make sure you are not cheating during the exam.  
+## Security Patches
+So what can we do with this laptop? Here's a few possible ideas while Apple still provide security updates for macOS Monterey:
 
-- Donate the laptop to a family member.  
+- Use the laptop for online proctored certification tests. Google Cloud Certifications allow for online proctoring. I could use the laptop for online proctoring since special software is required to be installed. The online proctoring software can be very anti-privacy. When installed it monitors the entire laptop to make sure you are not cheating during the exam. Last time I took an online proctored exam, wiped the mac and reinstalled a fresh copy of Monterey. 
 
-- I could try selling it on the cheap.
+- I could donate the laptop to a family member who is in need of a safe and reliable computer.  Apple makes very easy to use laptops.  Granted it would only be usable until Apple stops supporting Monterey.  I would never let a family member use an OS which is no longer supported by the vendor.
 
-What should we do when Apple drops all support for Monterey?
+- I could try selling it on the cheap.  Maybe I could buy a tank of gas for the laptop.
 
-- We can install....LINUX!!  Apple makes fantastic hardware.  Linux runs amazing on older hardware.  
+## Good Bye Apple
+What should we do when Apple drops all support for Monterey? Regardless of OS support, the hardware is in very good condition for a second life. Here’s a few possible idea for what I could do with the hardware:
 
-- Convert the laptop into a server using Linux.  Laptops make fantastic servers.  The battery acts like a builtin uninterruptible power supply (UPS).    
+- I could install Linux on the laptop. It would make a great linux laptop for casual use. I could install an easy to use Linux Distro like Mint or Ubuntu and then donate the laptop to a family member.  
 
-- I could still try to sell the laptop.  Maybe I could convince someone to trade it for a sandwich.
-## Conclusion
+- I could install Linux and use the laptop as a server. Laptops make fantastic servers. The battery acts like a builtin uninterruptible power supply (UPS).  Turning the laptop into a server would make a great addition to my home lab.
 
-So what will I end up doing with this laptop?  Spoiler alert...I'll most likely turn it into a server. Did I waste my money by paying Apple to fix a few hardware issues before getting it dropped from future macOS versions?  I don't think so.  The hardware will most likely run for years.  I'll breath new life into the laptop with Linux.
+## Decision Time
+So what will I end up doing with this laptop? I'll most likely turn it into a server as I don’t have anyone in real need of a Linux Laptop in my family. Did I waste my money by paying Apple to fix a few hardware issues before getting it dropped from future macOS versions? I’m going to lean towards probably not.
