@@ -15,7 +15,7 @@
 
 [[main]]
   name = "TechSec101"
-  pageRef = "/projects/techSec101/"
+  pageRef = "/projects/techsec101/"
   parent = "Projects"
   weight = 1
 
