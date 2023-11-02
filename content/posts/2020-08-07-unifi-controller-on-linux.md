@@ -8,7 +8,7 @@ draft: false
 # layout: 
 # description: 
 # icon: 
-# thumbnail: 
+thumbnail: img/network.png
     # url: 
     # author: 
     # authorURL: 
