@@ -1,7 +1,7 @@
 ---
 title: theChecksum
 thumbnail:
-    url: /img/cheatsheet.png
+    url: /img/home_page.png
     #author: Harris Vo
     #authorURL: https://unsplash.com/@hoanvokim
     #origin: https://unsplash.com/photos/ZX6BPboJrYk
