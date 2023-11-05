@@ -4,7 +4,7 @@ slug: /introduction-to-tmux/
 tags: Linux
 categories: Tools
 # author: 
-date: 2022-11-19T11:31:46-04:00
+date: 2022-11-19
 draft: false
 # layout: 
 # description: 

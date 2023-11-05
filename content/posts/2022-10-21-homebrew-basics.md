@@ -3,7 +3,7 @@ title: Getting Started With Homebrew
 slug: /homebrew-basics/
 tags: macOS
 # author: 
-date: 2022-10-21T11:31:46-04:00
+date: 2022-10-21
 draft: false
 # layout: 
 # description: 

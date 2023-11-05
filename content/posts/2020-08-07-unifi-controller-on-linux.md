@@ -3,7 +3,7 @@ title: 'UniFi Controller on Linux'
 slug: /unifi-controller-on-linux/
 tags: Unifi
 author: Brian
-date: 2020-08-07T11:31:46-04:00
+date: 2020-08-07
 draft: false
 # layout: 
 # description: 

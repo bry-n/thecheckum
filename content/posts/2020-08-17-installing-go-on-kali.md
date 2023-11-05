@@ -2,7 +2,7 @@
 title: Installing Go on Kali
 slug: /installing-go-on-kali/
 tags: Linux
-date: 2020-08-17T11:31:46-04:00
+date: 2020-08-17
 draft: false
 # layout: 
 # description: 

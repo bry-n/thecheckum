@@ -2,8 +2,8 @@
 author: Brian
 title: Aging Macbook Pro Ideas
 slug: /aging-mackbook-pro-ideas/
-date: 2023-10-15T11:31:46-04:00
-draft: true
+date: 2023-11-05
+draft: false
 # layout: 
 # description: 
 tags: macOS
