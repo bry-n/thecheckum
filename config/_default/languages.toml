@@ -9,7 +9,7 @@
         tagline = "A Hugo Theme"
     [en.params.social]
         title = "Follow me"
-        caption = "I work on everything coding and tweet developer memes"
+        caption = "I post things on Technology and Security"
     [en.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
 # toml-docs-end lang-param
