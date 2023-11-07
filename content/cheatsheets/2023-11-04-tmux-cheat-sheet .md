@@ -17,7 +17,7 @@ thumbnail: img/cheatsheet.png
 ---
 
 ## What Is Tmux
-It's a command line tool which will allow you to run multiple programs.
+It is a command line tool which will allow you to run multiple programs.
 
 ## Tmux Site
 Instructions for installing Tmux can be found at [https://github.com/tmux/tmux/wiki](https://github.com/tmux/tmux/wiki)

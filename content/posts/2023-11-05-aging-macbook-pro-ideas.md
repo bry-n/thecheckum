@@ -47,4 +47,4 @@ What should we do when Apple drops all support for Monterey? Regardless of OS su
 - I could install Linux and use the laptop as a server. Laptops make fantastic servers. The battery acts like a builtin uninterruptible power supply (UPS).  Turning the laptop into a server would make a great addition to my home lab.
 
 ## Decision Time
-So what will I end up doing with this laptop? I'll most likely turn it into a server as I don’t have anyone in real need of a Linux Laptop in my family. Did I waste my money by paying Apple to fix a few hardware issues before getting it dropped from future macOS versions? I’m going to lean towards probably not.
+So what will I end up doing with this laptop? I'll most likely turn it into a server as I don’t have anyone in real need of a Linux laptop in my family. Did I waste my money by paying Apple to fix a few hardware issues before getting it dropped from future macOS versions? I’m going to lean towards probably not.
