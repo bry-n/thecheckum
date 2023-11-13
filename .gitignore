@@ -3,5 +3,4 @@ resources
 hugo_stats.json
 /public
 .firebaserc
-firebase.json
 package-lock.json
