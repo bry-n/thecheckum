@@ -8,12 +8,19 @@ jobs:
     if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: peaceiris/actions-hugo@v2
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: setup hugo
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+
+      - name: build hugo
         run: hugo
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+        
+      - name: setup firebae and deploy 
+      uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_HUGO_SITE_404923 }}'
