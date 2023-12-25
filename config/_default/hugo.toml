@@ -7,7 +7,7 @@ enableGitInfo = true
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://example.com/"
+baseURL = "https://thechecksum.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
