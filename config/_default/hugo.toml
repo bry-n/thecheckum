@@ -1,5 +1,5 @@
 # toml-docs-start main
-title = "TheChecksum"
+title = "theChecksum"
 copyright = "Copyright © 2023 Brian."
 paginate = 9
 enableGitInfo = true
@@ -46,7 +46,10 @@ home = ["HTML", "RSS", "REDIR"]
 [build]
   writeStats = true
 # toml-docs-end build
-  
+
+[frontmatter]
+  lastmod = ['lastmod', ':fileModTime']
+
 [taxonomies]
   tag = 'tags'
 

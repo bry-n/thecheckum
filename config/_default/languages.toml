@@ -6,7 +6,7 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = " "
     [en.params.social]
         title = "Follow me"
         caption = "I post things on Technology and Security"
